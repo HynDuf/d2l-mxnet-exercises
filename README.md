@@ -9,7 +9,7 @@ Exercises' solutions of the book Dive Into Deep Learning (mxnet version)
     -   [x] 2.2: Data Preprocessing
     -   [x] 2.3: Linear Algebra
     -   [x] 2.4: Calculus
-            <!-- - [ ] 2.5: Automatic Differentiation -->
+    -   [x] 2.5: Automatic Differentiation
             <!-- - [ ] 2.6: Probability -->
 -   3: Linear Neural Networks
     <!-- - [ ] 3.1: Linear Regression -->
