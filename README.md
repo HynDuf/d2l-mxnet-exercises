@@ -1,6 +1,6 @@
 # Dive into Deep Learning - MXNet version - Exercises solutions
 
-Exercises' solutions of the book Dive Into Deep Learning (mxnet version)
+Exercises' solutions of the book Dive Into Deep Learning (MXNet version)
 
 ## Status
 
@@ -10,7 +10,7 @@ Exercises' solutions of the book Dive Into Deep Learning (mxnet version)
     -   [x] 2.3: Linear Algebra
     -   [x] 2.4: Calculus
     -   [x] 2.5: Automatic Differentiation
-            <!-- - [ ] 2.6: Probability -->
+    -   [x] 2.6: Probability and Statistics
 -   3: Linear Neural Networks
     <!-- - [ ] 3.1: Linear Regression -->
     <!-- - [ ] 3.2: Linear Regression Implementation from Scratch -->
